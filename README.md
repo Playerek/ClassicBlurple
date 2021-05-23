@@ -3,6 +3,8 @@ This theme for BetterDiscord will allow you to return (at least partially) to th
 
 The theme so far only improves a few small elements. With each update I try to improve more.
 
+**NOTICE:** Support for the theme is temporarily suspended. If discord completely implements the "newple" colour, perhaps support will be resumed.
+
 ## How to use?
 1. Download files
 2. enter user settings
